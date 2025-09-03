@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/Lak-MedRida027/)
 
-- 📫 Find me at **lakmedrida027@gmail.com@gmail.com** {for resume checkout my portfolio}
+- 📫 Find me at **lakmedrida027@gmail.com** {for resume checkout my portfolio}
 
 
 <br>
