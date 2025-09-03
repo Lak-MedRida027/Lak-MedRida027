@@ -36,9 +36,3 @@
 </a>
 </p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Lak-MedRida027&theme=merko" alt="RiteshS1" width="600" /></p>
-
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Lak-MedRida027&theme=onedark&margin-w=30&margin-h=30&row=2&column=4" alt="ssoad" />
-</p>
-
