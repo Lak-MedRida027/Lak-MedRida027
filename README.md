@@ -19,7 +19,7 @@
 ## 🌐 Socials:
 
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%2300759.svg?logo=website&logoColor=white)](???)[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-rida-lakhdari-b8b6252b6/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%2300759.svg?logo=website&logoColor=white)](???)[    ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-rida-lakhdari-b8b6252b6/)
 
 
 ## 💻 Tech Stack:
