@@ -5,7 +5,7 @@
 
 
 - 🔭 Currently Learning <b> Golang</b>
-- 💬 Ask me about **MERN stack**!
+- 💬 Ask me about **MERN stack**
 
 - 👯 I’m looking to collaborate on Full Stack projects
 
